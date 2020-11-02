@@ -1,0 +1,5 @@
+---
+applications:
+- name: with-cassandra-in-ini
+  env:
+    BP_DEBUG: true
